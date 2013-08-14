@@ -5,18 +5,20 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
+markdown: redcarpet2
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Barrett Cooks Jekyll Bootstrap
-tagline: Site Tagline
+title : Barrett Cook
+tagline: Engineering Manager of Web
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Barrett Cook
+  email : bcook@tagged.com
+  github : barrettcook
+  twitter : barrettcook
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
@@ -101,7 +103,7 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-123-12'
+        tracking_id : '' #'UA-123-12'
     getclicky :
       site_id :
     mixpanel :

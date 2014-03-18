@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Barrett Cook
-tagline: Engineering Manager of Web
+tagline: Engineering Manager of Web at <a href="http://www.tagged.com">Tagged</a>
 ---
 {% include JB/setup %}
 
 ![Barrett Cook]({{ BASE_PATH }}/assets/images/barrettcook.jpg)
+<p>I am passionate about usability, performance and culture. I value transparency, autonomy and making metrics-driven decisions. I love graphs and data visulization.</p>
 
-### Follow me on:
+#### Follow me on:
 <ul>
   <li><a href="http://tagged.com/barrettcook">Tagged</a> ← I work here</li>
   <li><a href="https://twitter.com/barrettcook">Twitter</a></li>

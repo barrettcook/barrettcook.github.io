@@ -5,7 +5,7 @@ tagline: Engineering Manager of Web
 ---
 {% include JB/setup %}
 
-![Barrett]({{ BASE_PATH }}/assets/images/barrett.jpg)
+![Barrett Cook]({{ BASE_PATH }}/assets/images/barrettcook.jpg)
 
 ### Follow me on:
 <ul>

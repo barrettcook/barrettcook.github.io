@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Barrett Cook
+description: Barrett Cook is an Engineering Manager located in San Francisco.
 tagline: Engineering Manager of Web at <a href="http://www.tagged.com">Tagged</a>
 ---
 {% include JB/setup %}

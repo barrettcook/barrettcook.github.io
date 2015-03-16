@@ -2,7 +2,7 @@
 layout: page
 title: Barrett Cook
 description: Barrett Cook is an Engineering Manager located in San Francisco.
-tagline: Engineering Manager of Web at <a href="http://www.tagged.com">Tagged</a>
+tagline: Engineering Manager of Discovery at <a href="https://www.eventbrite.com">Eventbrite</a>
 ---
 {% include JB/setup %}
 
@@ -11,7 +11,7 @@ tagline: Engineering Manager of Web at <a href="http://www.tagged.com">Tagged</a
 
 #### Follow me on:
 <ul>
-  <li><a href="http://tagged.com/barrettcook">Tagged</a> ← I work here</li>
+  <li><a href="http://barrettcook.eventbrite.com">Eventbrite</a> ← I work here</li>
   <li><a href="https://twitter.com/barrettcook">Twitter</a></li>
   <li><a href="https://github.com/barrettcook">GitHub</a></li>
   <li><a href="http://www.linkedin.com/in/barrettcook">LinkedIn</a></li>
